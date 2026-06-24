@@ -1,0 +1,92 @@
+{
+  "BoxCo Wholesale": {
+    "history": [
+      {
+        "date": "2026-03-01",
+        "item": "Packaging Boxes (Medium)",
+        "discount_pct": 6.0,
+        "notes": "Responsive, accepted 6% off list for 2000+ units."
+      }
+    ]
+  },
+  "ProtectAll Materials": {
+    "history": [
+      {
+        "date": "2026-06-21",
+        "item": "Bubble Wrap, Industrial",
+        "discount_pct": 0.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-21",
+        "item": "Bubble Wrap, Industrial",
+        "discount_pct": 0.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      }
+    ]
+  },
+  "StickFast Tape Co": {
+    "history": [
+      {
+        "date": "2026-06-22",
+        "item": "Packing Tape, Heavy Duty",
+        "discount_pct": 0.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-22",
+        "item": "Packing Tape, Heavy Duty",
+        "discount_pct": 0.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-22",
+        "item": "Packing Tape, Heavy Duty",
+        "discount_pct": 0.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-22",
+        "item": "Packing Tape (Heavy Duty)",
+        "discount_pct": 5.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-22",
+        "item": "Packing Tape - Heavy Duty",
+        "discount_pct": 5.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-22",
+        "item": "Packing Tape (Heavy Duty)",
+        "discount_pct": 5.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-22",
+        "item": "Packing Tape, Heavy Duty",
+        "discount_pct": 5.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-23",
+        "item": "Packing Tape (Heavy Duty)",
+        "discount_pct": 5.0,
+        "notes": "Approved and sent by human reviewer. Looks good, price is within budget."
+      },
+      {
+        "date": "2026-06-24",
+        "item": "Heavy Duty Packing Tape",
+        "discount_pct": 5.0,
+        "notes": "Approved and sent by human reviewer. Looks good! Price is within budget."
+      },
+      {
+        "date": "2026-06-24",
+        "item": "Packing Tape (Heavy Duty)",
+        "discount_pct": 5.0,
+        "notes": "Approved and sent by human reviewer. Looks good! Price is within budget."
+      }
+    ]
+  }
+}
