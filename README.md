@@ -245,6 +245,7 @@ Please provide:
 
 With these details, I can start a proper negotiation from the list price and document the outcome for human approval.
 --------------------------------------------------
+```
 
 ## Limitations & Future Work
 
