@@ -1,7 +1,7 @@
 # ProcureFlow AI: Multi-Agent Procurement & Supplier Negotiator
 
 **Track:** Agents for Business - *AI Agents: Intensive Vibe Coding* Capstone (Google × Kaggle)
-
+**Authors:** MD Aminul Islam, Rezaul Hoque
 > ProcureFlow AI runs the end-to-end purchasing loop for a small business: an Inventory Agent
 > flags what's running low, a Sourcing Agent finds and ranks vendor options and a Negotiator
 > Agent haggles for a bulk discount across multiple rounds - anchoring its opening offer on real
